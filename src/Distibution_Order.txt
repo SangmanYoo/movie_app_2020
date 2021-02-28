@@ -1,0 +1,6 @@
+1) npm run deploy
+2) git status
+3) git add .
+3) git commit -m "rara~~"
+4) git push origin --all
+5) https://smyoolab.github.io/movie_app_2020/
